@@ -6,6 +6,7 @@ public class ClearButton implements Button{
 	public void press() {
 		// TODO Auto-generated method stub
 		
+		System.out.println("Close Button Press");
 	}
 
 }
